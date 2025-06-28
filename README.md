@@ -1,7 +1,7 @@
 
 # Quiz Website
 
-This is a responsive quiz website built using HTML, CSS, and JavaScript. The quiz presents a set of questions, and users can select answers by clicking on the options. Once all questions are answered, the final score is displayed with an option to retake the quiz.
+This is a responsive quiz website built using HTML, CSS, and JavaScript. The quiz dynamically loads **10 science-related questions** from an external API. Users can select answers, view their final score, and retake the quiz.
 
 
 ## Demo
@@ -11,10 +11,11 @@ http://127.0.0.1:5500/quiz/index.html
 
 ## Features
 
- - Multiple-choice questions with real-time feedback.
-- A dynamic scoring system.
-- Option to retake the quiz after completion.
-- Simple and intuitive design with interactive elements
+- 10 **science-based multiple-choice questions** loaded via API  
+- Real-time feedback on selected answers  
+- Dynamic scoring system  
+- Option to **retake the quiz**  
+- Clean, responsive, and interactive UI  
 
 
 ## Tech Stack
